@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="2.3.5.239-pre3" />
+    <PackageReference Include="Microsoft.Azure.Mobile.Client" Version="4.0.0" />
+  </ItemGroup>
+</Project>
